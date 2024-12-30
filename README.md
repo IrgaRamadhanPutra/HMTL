@@ -1,6 +1,7 @@
 # HTML
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
 -HTML sebenarnya tidak pernah error, hanya saja tampilan di websitenya akan menjadi berantakan bila kita ada kesalahan dalam memberi format HTMLnya. Biasanya ada posisi tampilan yang ke atas, padahal kita maunya di bawah. Ada teksnya yang besar semua padahal kita maunya teks yang tertentu saja yang jadi besar. Dan tentunya pasti saja banyak keluhan-keluhan lainnya.
+
 2.Apa perbedaan dari tag p dengan tag br, berikan penjelasannya!
 - Dalam bahasa pemograman tag merupakan sebuah penanda awal dan akhir dari sebuah elemen html. Sebuah tag diawali dengan sepasang simbol kurung siku <...> berisi nama dari tag tersebut atau kadang kala terdapat penambahan beberapa atribut dan element di dalamnya, lalu di akhiri dengan simbol <.../> sebagai penutup.
 3. Apa perbedaan atribut title dan alt pada tag img, berikan penjelasannya!
